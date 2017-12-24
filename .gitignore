@@ -1,0 +1,9 @@
+# Node
+node_modules/
+
+# Build
+dist/
+
+# IntelliJ IDEA
+.idea/
+*.iml
